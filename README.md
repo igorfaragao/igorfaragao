@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/igor-felipe-aragao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor-felipe-aragao" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/igor-felipe-aragão-915ab313a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor-felipe-aragão-915ab313a/" height="30" width="40" /></a>
 <a href="https://fb.com/igor.felipearagao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="igor.felipearagao" height="30" width="40" /></a>
 </p>
 
